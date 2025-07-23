@@ -1,1 +1,5 @@
-
+pandas
+numpy
+scikit-learn
+matplotlib - for visualization
+seaborn - for visualization
